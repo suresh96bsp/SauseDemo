@@ -22,3 +22,4 @@ await page.goto('https://www.saucedemo.com/');
 await loginPage.login('standard_user','secr');
 
 })
+//saucedemo project added in the github
